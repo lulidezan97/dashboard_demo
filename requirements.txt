@@ -1,0 +1,17 @@
+jupyterlab
+requests
+pandas
+numpy
+geopandas
+simplejson
+urllib.request
+os
+zipfile
+requests
+fnmatch
+shapely.wkt
+textblob
+plotly
+plotly-express
+
+voila
