@@ -5,6 +5,5 @@ numpy
 geopandas
 textblob
 plotly
-json
 
 voila
