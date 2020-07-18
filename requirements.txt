@@ -6,5 +6,6 @@ geopandas
 textblob
 plotly
 plotly-express
+json
 
 voila
