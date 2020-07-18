@@ -3,12 +3,6 @@ requests
 pandas
 numpy
 geopandas
-simplejson
-os
-zipfile
-requests
-fnmatch
-shapely.wkt
 textblob
 plotly
 plotly-express
