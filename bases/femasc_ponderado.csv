@@ -1,0 +1,145 @@
+edad,genero,value,pregunta,respuesta,porcentaje
+Entre 18 y 25 años,Hombre,13.662043189047411,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.010265357558739571
+Entre 18 y 25 años,Mujer,57.9860286553714,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.043569421449048275
+Entre 26 y 35 años,Hombre,11.248331613943327,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.00845174798224697
+Entre 26 y 35 años,Mujer,13.564063315107203,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.010191737645111807
+Entre 36 y 45 años,Hombre,9.840620043389253,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.0073940245940719695
+Entre 36 y 45 años,Mujer,22.725646209846147,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.017075548720597435
+Entre 46 y 55 años,Hombre,16.33139671765873,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.01227105085385709
+Entre 46 y 55 años,Mujer,39.181536046137595,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.02944014095466272
+Entre 56 y 65 años,Hombre,23.285028427901846,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.01749585616662762
+Entre 56 y 65 años,Mujer,37.40826173790526,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.028107741797974012
+Más de 66 años,Hombre,7.609921484342537,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.0057179269564406315
+Más de 66 años,Mujer,27.522989311596675,opinion cuarentena,La cuarentena sigue siendo algo necesaria,0.020680166389417415
+Entre 18 y 25 años,Hombre,27.324086378094822,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.020530715117479142
+Entre 18 y 25 años,Mujer,127.56926304181708,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.09585272718790622
+Entre 26 y 35 años,Hombre,19.282854195331417,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.014488710826709092
+Entre 26 y 35 años,Mujer,37.30117411654481,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.028027278524057467
+Entre 36 y 45 años,Hombre,14.471500063807724,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.010873565579517602
+Entre 36 y 45 años,Mujer,86.77064916486711,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.06519754966046294
+Entre 46 y 55 años,Hombre,45.49460514204932,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.03418364166431618
+Entre 46 y 55 años,Mujer,98.67942411619839,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.07414554018211351
+Entre 56 y 65 años,Hombre,44.07523238138564,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.03311715631540228
+Entre 56 y 65 años,Mujer,65.28108420928567,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.04905076509842525
+Más de 66 años,Hombre,8.334675911422778,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.006262491428482596
+Más de 66 años,Mujer,48.790753779648654,opinion cuarentena,La cuarentena sigue siendo muy necesaria,0.03666029496305814
+Entre 18 y 25 años,Hombre,18.21605758539655,opinion cuarentena,La cuarentena ya no es nada necesaria,0.013687143411652763
+Entre 18 y 25 años,Mujer,7.731470487382853,opinion cuarentena,La cuarentena ya no es nada necesaria,0.005809256193206437
+Entre 26 y 35 años,Hombre,17.6759496790538,opinion cuarentena,La cuarentena ya no es nada necesaria,0.013281318257816668
+Entre 26 y 35 años,Mujer,11.868555400718803,opinion cuarentena,La cuarentena ya no es nada necesaria,0.008917770439472832
+Entre 36 y 45 años,Hombre,10.419480045941562,opinion cuarentena,La cuarentena ya no es nada necesaria,0.007828967217252673
+Entre 36 y 45 años,Mujer,21.692662291216777,opinion cuarentena,La cuarentena ya no es nada necesaria,0.016299387415115735
+Entre 46 y 55 años,Hombre,25.66362341346372,opinion cuarentena,La cuarentena ya no es nada necesaria,0.019283079913204
+Entre 46 y 55 años,Mujer,20.316352023923198,opinion cuarentena,La cuarentena ya no es nada necesaria,0.015265258272788077
+Entre 56 y 65 años,Hombre,10.810906055811571,opinion cuarentena,La cuarentena ya no es nada necesaria,0.008123076077362824
+Entre 56 y 65 años,Mujer,19.804373861243963,opinion cuarentena,La cuarentena ya no es nada necesaria,0.014880569187162714
+Más de 66 años,Hombre,3.6237721354012082,opinion cuarentena,La cuarentena ya no es nada necesaria,0.002722822360209825
+Más de 66 años,Mujer,12.510449687089398,opinion cuarentena,La cuarentena ya no es nada necesaria,0.00940007563155337
+Entre 18 y 25 años,Hombre,9.108028792698274,opinion cuarentena,La cuarentena ya no es tan necesaria,0.006843571705826381
+Entre 18 y 25 años,Mujer,27.060146705839987,opinion cuarentena,La cuarentena ya no es tan necesaria,0.02033239667622253
+Entre 26 y 35 años,Hombre,6.427618065110472,opinion cuarentena,La cuarentena ya no es tan necesaria,0.004829570275569697
+Entre 26 y 35 años,Mujer,13.564063315107203,opinion cuarentena,La cuarentena ya no es tan necesaria,0.010191737645111807
+Entre 36 y 45 años,Hombre,7.525180033180017,opinion cuarentena,La cuarentena ya no es tan necesaria,0.005654254101349153
+Entre 36 y 45 años,Mujer,17.560726616699295,opinion cuarentena,La cuarentena ya no es tan necesaria,0.013194742193188927
+Entre 46 y 55 años,Hombre,34.99585010926871,opinion cuarentena,La cuarentena ya no es tan necesaria,0.02629510897255091
+Entre 46 y 55 años,Mujer,31.925696037593596,opinion cuarentena,La cuarentena ya no es tan necesaria,0.023988263000095548
+Entre 56 y 65 años,Hombre,24.94824474418055,opinion cuarentena,La cuarentena ya no es tan necesaria,0.018745560178529592
+Entre 56 y 65 años,Mujer,40.34224305068215,opinion cuarentena,La cuarentena ya no es tan necesaria,0.030312270566442565
+Más de 66 años,Hombre,8.334675911422778,opinion cuarentena,La cuarentena ya no es tan necesaria,0.006262491428482596
+Más de 66 años,Mujer,25.020899374178796,opinion cuarentena,La cuarentena ya no es tan necesaria,0.01880015126310674
+Entre 18 y 25 años,Hombre,4.554014396349137,home office,No trabajo ni estudio,0.0034766310181599236
+Entre 18 y 25 años,Mujer,46.388822924297116,home office,No trabajo ni estudio,0.035414209670446346
+Entre 26 y 35 años,Hombre,4.820713548832854,home office,No trabajo ni estudio,0.0036802347983291707
+Entre 26 y 35 años,Mujer,12.716309357913003,home office,No trabajo ni estudio,0.009707899822556525
+Entre 36 y 45 años,Hombre,1.157720005104618,home office,No trabajo ni estudio,0.0008838279657872217
+Entre 36 y 45 años,Mujer,35.12145323339859,home office,No trabajo ni estudio,0.0268124610699464
+Entre 46 y 55 años,Hombre,12.83181170673186,home office,No trabajo ni estudio,0.009796076761324195
+Entre 46 y 55 años,Mujer,37.73036804442879,home office,No trabajo ni estudio,0.028804161878585886
+Entre 56 y 65 años,Hombre,29.10628553487731,home office,No trabajo ni estudio,0.022220354682035575
+Entre 56 y 65 años,Mujer,77.0170094603932,home office,No trabajo ni estudio,0.05879641580197396
+Más de 66 años,Hombre,22.46738723948749,home office,No trabajo ni estudio,0.017152079149427495
+Más de 66 años,Mujer,85.0710578722079,home office,No trabajo ni estudio,0.06494504689824904
+Entre 18 y 25 años,Hombre,18.21605758539655,home office,"No, todavía no pude volver a hacerlo",0.013906524072639695
+Entre 18 y 25 años,Mujer,54.120293411679974,home office,"No, todavía no pude volver a hacerlo",0.04131657794885408
+Entre 26 y 35 años,Hombre,9.641427097665709,home office,"No, todavía no pude volver a hacerlo",0.007360469596658341
+Entre 26 y 35 años,Mujer,24.584864758631806,home office,"No, todavía no pude volver a hacerlo",0.018768606323609282
+Entre 36 y 45 años,Hombre,9.840620043389253,home office,"No, todavía no pude volver a hacerlo",0.007512537709191384
+Entre 36 y 45 años,Mujer,34.08846931476922,home office,"No, todavía no pude volver a hacerlo",0.026023859273771505
+Entre 46 y 55 años,Hombre,38.49543512019558,home office,"No, todavía no pude volver a hacerlo",0.029388230283972586
+Entre 46 y 55 años,Mujer,59.49788807006079,home office,"No, todavía no pude volver a hacerlo",0.04542194757777005
+Entre 56 y 65 años,Hombre,26.611461060459252,home office,"No, todavía no pude volver a hacerlo",0.02031575285214681
+Entre 56 y 65 años,Mujer,33.007289768739945,home office,"No, todavía no pude volver a hacerlo",0.025198463915131697
+Más de 66 años,Hombre,1.4495088541604833,home office,"No, todavía no pude volver a hacerlo",0.0011065857515759675
+Más de 66 años,Mujer,5.004179874835759,home office,"No, todavía no pude volver a hacerlo",0.00382029687636759
+Entre 18 y 25 años,Hombre,22.770071981745687,home office,"No, tuve que hacerlo de manera presencial",0.01738315509079962
+Entre 18 y 25 años,Mujer,3.8657352436914265,home office,"No, tuve que hacerlo de manera presencial",0.0029511841392038623
+Entre 26 y 35 años,Hombre,24.103567744164273,home office,"No, tuve que hacerlo de manera presencial",0.018401173991645856
+Entre 26 y 35 años,Mujer,13.564063315107203,home office,"No, tuve que hacerlo de manera presencial",0.010355093144060294
+Entre 36 y 45 años,Hombre,19.102380084226194,home office,"No, tuve que hacerlo de manera presencial",0.014583161435489156
+Entre 36 y 45 años,Mujer,21.692662291216777,home office,"No, tuve que hacerlo de manera presencial",0.016560637719672776
+Entre 46 y 55 años,Hombre,40.82849179414683,home office,"No, tuve que hacerlo de manera presencial",0.031169335149667896
+Entre 46 y 55 años,Mujer,31.925696037593596,home office,"No, tuve que hacerlo de manera presencial",0.024372752358803443
+Entre 56 y 65 años,Hombre,22.453420269762493,home office,"No, tuve que hacerlo de manera presencial",0.01714141646899887
+Entre 56 y 65 años,Mujer,21.271364517632406,home office,"No, tuve que hacerlo de manera presencial",0.016239010078640426
+Más de 66 años,Hombre,2.536640494780846,home office,"No, tuve que hacerlo de manera presencial",0.001936525065257943
+Más de 66 años,Mujer,3.753134906126819,home office,"No, tuve que hacerlo de manera presencial",0.0028652226572756924
+Entre 18 y 25 años,Hombre,22.770071981745687,home office,"Si, pude hacerlo online",0.01738315509079962
+Entre 18 y 25 años,Mujer,112.10632206705137,home office,"Si, pude hacerlo online",0.08558434003691201
+Entre 26 y 35 años,Hombre,14.462140646498563,home office,"Si, pude hacerlo online",0.011040704394987512
+Entre 26 y 35 años,Mujer,24.584864758631806,home office,"Si, pude hacerlo online",0.018768606323609282
+Entre 36 y 45 años,Hombre,11.57720005104618,home office,"Si, pude hacerlo online",0.008838279657872218
+Entre 36 y 45 años,Mujer,57.84709944324474,home office,"Si, pude hacerlo online",0.04416170058579407
+Entre 46 y 55 años,Hombre,27.996680087414965,home office,"Si, pude hacerlo online",0.021373258388343697
+Entre 46 y 55 años,Mujer,58.04672006835199,home office,"Si, pude hacerlo online",0.044314095197824435
+Entre 56 y 65 años,Hombre,20.79020395348379,home office,"Si, pude hacerlo online",0.015871681915739694
+Entre 56 y 65 años,Mujer,29.339813127768835,home office,"Si, pude hacerlo online",0.02239863459122817
+Más de 66 años,Hombre,1.4495088541604833,home office,"Si, pude hacerlo online",0.0011065857515759675
+Más de 66 años,Mujer,17.514629561925158,home office,"Si, pude hacerlo online",0.013371039067286566
+Entre 18 y 25 años,Hombre,0.0,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.0
+Entre 18 y 25 años,Mujer,34.79161719322284,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.02636335106279615
+Entre 26 y 35 años,Hombre,11.248331613943327,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.008523424293910113
+Entre 26 y 35 años,Mujer,13.564063315107203,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.010278170199108266
+Entre 36 y 45 años,Hombre,8.682900038284634,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.006579468286316223
+Entre 36 y 45 años,Mujer,36.15443715202796,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.02739602800936716
+Entre 46 y 55 años,Hombre,34.99585010926871,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.026518108573330746
+Entre 46 y 55 años,Mujer,39.181536046137595,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.029689812469112238
+Entre 56 y 65 años,Hombre,30.76950185115601,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.02331559279996319
+Entre 56 y 65 años,Mujer,42.54272903526481,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.03223675675945788
+Más de 66 años,Hombre,7.972298697882658,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.006041010056603348
+Más de 66 años,Mujer,35.029259123850316,opinion circulacion,Estoy algo de acuerdo con que se pueda volver a circular entre provincias,0.02654342425714002
+Entre 18 y 25 años,Hombre,31.878100774443958,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.024155633733966425
+Entre 18 y 25 años,Mujer,42.52308768060569,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.03222187352119529
+Entre 26 y 35 años,Hombre,12.855236130220945,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.009741056335897271
+Entre 26 y 35 años,Mujer,16.107325186689803,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.012205327111441065
+Entre 36 y 45 años,Hombre,9.261760040836943,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.007018099505403972
+Entre 36 y 45 años,Mujer,34.08846931476922,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.025830540694546177
+Entre 46 y 55 años,Hombre,22.16403840253685,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.016794802096442806
+Entre 46 y 55 años,Mujer,40.632704047846396,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.03078943515315343
+Entre 56 y 65 años,Hombre,19.95859579534444,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.015123627762138284
+Entre 56 y 65 años,Mujer,33.007289768739945,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.02501127679613111
+Más de 66 años,Hombre,5.798035416641933,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.004393461859347889
+Más de 66 años,Mujer,35.029259123850316,opinion circulacion,Estoy algo en desacuerdo con que se pueda volver a circular entre provincias,0.02654342425714002
+Entre 18 y 25 años,Hombre,18.21605758539655,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.013803219276552243
+Entre 18 y 25 años,Mujer,30.925881949531412,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.023434089833596575
+Entre 26 y 35 años,Hombre,17.6759496790538,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.01339395246185875
+Entre 26 y 35 años,Mujer,22.041602887049205,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.01670202657355093
+Entre 36 y 45 años,Hombre,14.471500063807724,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.010965780477193706
+Entre 36 y 45 años,Mujer,26.85758188436363,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.020351335092672746
+Entre 46 y 55 años,Hombre,41.99502013112245,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.0318217302879969
+Entre 46 y 55 años,Mujer,49.339712058099195,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.0373871712574006
+Entre 56 y 65 años,Hombre,24.116636586041196,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.01827438354591709
+Entre 56 y 65 años,Mujer,35.941271081516824,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.02723450140023165
+Más de 66 años,Hombre,9.421807552043141,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.0071393755214403205
+Más de 66 años,Mujer,22.518809436760915,opinion circulacion,Estoy muy de acuerdo con que se pueda volver a circular entre provincias,0.017063629879590012
+Entre 18 y 25 años,Hombre,18.21605758539655,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.013803219276552243
+Entre 18 y 25 años,Mujer,104.37485157966852,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.07909005318838845
+Entre 26 y 35 años,Hombre,12.855236130220945,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.009741056335897271
+Entre 26 y 35 años,Mujer,23.737110801437606,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.017986797848439463
+Entre 36 y 45 años,Hombre,9.840620043389253,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.00745673072449172
+Entre 36 y 45 años,Mujer,51.64919593146852,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.03913718287052451
+Entre 46 y 55 años,Hombre,23.330566739512474,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.017678739048887164
+Entre 46 y 55 años,Mujer,60.94905607176959,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.046184152729730144
+Entre 56 y 65 años,Hombre,26.611461060459252,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.020164837016184378
+Entre 56 y 65 años,Mujer,49.1441869890128,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.0372390121186841
+Más de 66 años,Hombre,4.710903776021571,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.0035696877607201602
+Más de 66 años,Mujer,22.518809436760915,opinion circulacion,Estoy muy en desacuerdo con que se pueda volver a circular entre provincias,0.017063629879590012
