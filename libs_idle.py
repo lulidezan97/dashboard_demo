@@ -1,8 +1,3 @@
 import plotly
-import simplejson
+import simplejson as json
 from urllib.request import urlopen
-import nltk
-
-nltk.download('wordnet')
-nltk.download('punkt')
-nltk.download('stopwords')
