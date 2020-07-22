@@ -3,6 +3,7 @@ requests
 pandas
 numpy
 geopandas
-textblob
+shapely
 plotly
+ipywidgets
 voila
