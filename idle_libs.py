@@ -1,1 +1,1 @@
-import simplejson as json
+import simplejson
