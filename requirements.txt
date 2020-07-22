@@ -11,6 +11,8 @@ seaborn
 sklearn
 wordcloud
 nltk
+simplejson
+urllib
 spacy
 https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-2.3.1/es_core_news_sm-2.3.1.tar.gz#egg=es_core_news_sm
 gensim
