@@ -1,5 +1,4 @@
 jupyterlab
-requests
 pandas
 numpy
 geopandas
