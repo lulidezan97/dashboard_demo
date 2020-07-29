@@ -6,7 +6,10 @@ geopandas
 shapely
 plotly
 ipywidgets
-matplotlib
+matplotlib==3.*
+plotly==4.9.0
+seaborn==0.10.1
+urrlib
 seaborn
 sklearn
 wordcloud
