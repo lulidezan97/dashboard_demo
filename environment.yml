@@ -1,0 +1,9 @@
+name: mvp_idle
+channels:
+  - conda-forge
+dependencies:
+  - geojson
+  - voila
+  - pip
+  - pip:
+    - "-r requirements.txt"
